@@ -2,6 +2,8 @@
 
 This project compares Logistic Regression and XGBoost for probability of default (PD) estimation using LendingClub loan data. The accompanying Jupyter notebook covers data preparation, model estimation, out-of-sample validation and an illustrative lending-policy exercise based on predicted PDs.
 
+This project draws on concepts covered in the DataCamp course *Credit Risk Modeling in Python*. The analysis itself was developed independently using LendingClub data, including separate data preparation, model implementation, validation and interpretation.
+
 ## Notebook
 
 `credit_risk_modeling_and_validation.ipynb`
